@@ -1,0 +1,7 @@
+.config/
+.ccls-cache/
+main-debug
+main.o
+Makefile
+.replit
+replit.nix
